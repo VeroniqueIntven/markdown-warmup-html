@@ -103,7 +103,6 @@ li a:hover:not(.active) {
   font-weight: 300;
   font-size: 16px;
   color: #555;
-  padding-top: 2em;
   padding-left: 2em;		
   -webkit-user-select: none;
   -moz-user-select: none;
