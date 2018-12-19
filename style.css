@@ -165,3 +165,6 @@ li a:hover:not(.active) {
   transform: rotate(45deg);
 }
 
+td.description {
+  vertical-align: top;
+}
