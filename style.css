@@ -125,8 +125,8 @@ li a:hover:not(.active) {
   position: absolute;
   top: 0;
   left: 0;
-  height: 22px;
-  width: 20px;
+  height: 25px;
+  width: 25px;
   background-color: #eee;
 }
 
@@ -164,6 +164,4 @@ li a:hover:not(.active) {
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 }
-img {
-  float: right;
-}
+
