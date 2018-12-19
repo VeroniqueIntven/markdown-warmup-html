@@ -1,22 +1,27 @@
-body{
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    
-    text-align:justify;
-    padding: 2em;	
-	
+body {
+  background-color: #f2f2f2;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 16px;
+  color: #555;
+  padding-top: 150px;
+  background-image: url(../img/header-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-h1 { 
-  display: block;
-  font-size: 2em;
-  margin-top: 0.67em;
-  margin-bottom: 0.67em;
-  margin-left: 0;
-  margin-right: 0;
-  font-weight: bold;
-}
-p {font-size: 20px;
-}
+/* Titles */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway";
+  font-weight: 300;
+  color: #333;
+
 a {
     color: #666666;
     text-decoration:none;
@@ -25,8 +30,4 @@ a:hover {
     color: #208CED;
     text-decoration:none;
 
-	
-h2 {
-	
-	line-height: 1.5;
-}
+
