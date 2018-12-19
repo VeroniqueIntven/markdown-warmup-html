@@ -2,7 +2,7 @@ body{
     font-family: Verdana, Arial, Helvetica, sans-serif;
     
     text-align:justify;
-    padding: 1em;	
+    padding: 2em;	
 	
 }
 p {font-size: 20px;
@@ -16,9 +16,10 @@ a:hover {
     text-decoration:none;
 
 h1 {
-	font-size:60px;
+	font-size: 60px;
 	line-height: 1.25;
 }
+	
 h2 {
 	font-size: 40px;
 	line-height: 1.5;
